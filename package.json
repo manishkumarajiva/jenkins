@@ -1,1 +1,7 @@
-
+{
+  "name": "my-app-pipeline",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"No test yet\" && exit 0"
+  }
+}
